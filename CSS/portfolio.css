@@ -68,8 +68,8 @@
   border-right: 16px solid green;
   border-bottom: 16px solid red;
   border-radius: 50%;
-  width: 80px;
-  height: 80px;
+  width: 60px;
+  height: 60px;
   animation: spin 2s linear infinite;
   margin-left: 45%;
 }
